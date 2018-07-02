@@ -1,7 +1,11 @@
 # ContentSync Desktop
-Abstract, version, and translate your design content! 
+Abstract, version, and translate your design content!
 
 ContentSync Desktop is a companion app to the [ContentSync Sketch Plugin](https://github.com/contentsync/SketchContentSync).
+
+## Install
++ [Download installer for MacOS here](https://github.com/contentsync/contentsync-desktop/releases/download/v0.1.0/ContentSync-0.1.0.dmg)
++ Double click file and follow installation instructions
 
 ## Features
 + Easily switch between "Artboard" view of your artboards and "Grid" view of your Google Spreadsheet.
